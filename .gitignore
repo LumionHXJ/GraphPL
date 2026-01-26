@@ -1,8 +1,6 @@
 __pycache__/
-runs/
 *.ipynb
 nohup.out
-*.sh
 noisy*
 temp.txt
 TIMES.TTF

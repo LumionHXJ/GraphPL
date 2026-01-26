@@ -45,7 +45,7 @@ parser.add_argument('--calc_mse', default=False, action="store_true",
                     help="flag to indicate if mse should be calculated")
 parser.add_argument('--use_clf', default=False, action="store_true",
                     help="flag to indicate if generates samples should be classified")
-parser.add_argument('--calc_nll', default=False, action="store_true",
+parser.add_argument('--', default=False, action="store_true",
                     help="flag to indicate calculation of nll")
 parser.add_argument('--eval_lr', default=False, action="store_true",
                     help="flag to indicate evaluation of lr")
